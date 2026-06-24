@@ -1,1 +1,1 @@
-
+Modify the previous week's assignment by adding Pygame logic with two players. Two players move around leaving trails behind them. If you hit a trail, or crash head-on into the other player : you die.
