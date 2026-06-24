@@ -1,1 +1,15 @@
+SCREEN_WIDTH  = 800
+SCREEN_HEIGHT = 800
+ 
+ROWS = 80
+COLS = 80
 
+CELL_SIZE = SCREEN_WIDTH // COLS
+ 
+FPS = 10   
+ 
+BLACK = (0,   0,   0)
+WHITE = (255, 255, 255)
+GRAY  = (40,  40,  40)
+RED   = (220, 50,  50)
+BLUE  = (50,  100, 220)
