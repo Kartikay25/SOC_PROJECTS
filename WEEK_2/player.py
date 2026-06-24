@@ -5,7 +5,8 @@ class Player:
         self.start_col       = start_col
         self.start_direction = start_direction
  
-        # current state
+
+        
         self.row       = start_row
         self.col       = start_col
         self.direction = start_direction   
